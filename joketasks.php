@@ -270,21 +270,7 @@
             <input type="submit" name="svjoke" class="button" value="Get a SV joke!" />
         </div>
       </div>
-  </td>
-
-
-
-
-
-
-
-
    </form>
-
-
-
-
-
 
 
     </body>
